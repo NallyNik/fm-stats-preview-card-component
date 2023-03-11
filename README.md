@@ -21,10 +21,11 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
-- Use picture with srcset!
-- Pseudo-element ::before to apply a layer!
+- Use picture with `srcset`!
+- Pseudo-element `::before` to apply a layer!
+- Replace the `::before` to use `mix-blend-mode`!
 
-It was harder than I expected, but i did it!
+It was harder than I expected, but I did it!
 
 ## Author
 
